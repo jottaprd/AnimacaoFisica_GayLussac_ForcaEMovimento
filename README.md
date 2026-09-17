@@ -20,7 +20,7 @@ Nosso grupo adotou a metodologia ágil utilizando o GitHub Projects (Kanban). Ab
 ### Histórico de Movimentação do Board
 *(Print registrado em 17/09 provando a estrutura do Kanban e a divisão de tarefas)*
 
-![Dashboard do Projeto em 17/09](dashboard_17_09.jpg)
+![Dashboard do Projeto em 17/09](dashboard_17_09.jpeg)
 
 ---
 *O Roteiro Científico (Etapa 1) já se encontra finalizado e armazenado na pasta `/docs` deste repositório.*
