@@ -15,7 +15,7 @@
 
 Nosso grupo adotou a metodologia ágil utilizando o GitHub Projects (Kanban). Abaixo está o registro da movimentação das nossas entregas e o planejamento das próximas semanas, com os responsáveis já definidos (atendendo à Etapa 3 do cronograma).
 
-> **[Link direto para o nosso Project Board]()**
+> **[Link direto para o nosso Project Board](https://github.com/users/jottaprd/projects/2/views/1)**
 
 ### Histórico de Movimentação do Board
 *(Print registrado em 17/09 provando a estrutura do Kanban e a divisão de tarefas)*
